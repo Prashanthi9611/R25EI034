@@ -3,3 +3,4 @@ I am a second-year CSE student passionate about building practical software and 
 
 - Learning Python
 - Interested in cloud computing
+- Goal: contribute to open source
