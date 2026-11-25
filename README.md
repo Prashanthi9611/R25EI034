@@ -19,3 +19,16 @@ Working on a web-based concert booking application using React and Supabase to m
 ### 3. Personal Portfolio
 
 Building a personal engineering portfolio to document my programming skills, projects, and learning journey.
+
+
+
+
+## Collaboration Log
+
+**Partner Name:** S KIRTHANA
+
+**GitHub Username:** sureshkirthi04@gmail.com
+
+**What We Built:** We collaborated to create and test a greet() function using VS Code Live Share.
+
+**One Thing I Learned:** I learned how to collaborate in real time, share code changes, and credit contributors using Git co-authored commits.
