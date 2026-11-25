@@ -1,3 +1,5 @@
+# Created collaboratively with [S Kirthans] (@[sureshkirthi04@gmail.com])
+
 def greet():
     print("Hello! Welcome to our collaborative project.")
 
